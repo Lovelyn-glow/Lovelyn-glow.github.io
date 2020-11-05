@@ -1,0 +1,1011 @@
+        new file:   assets/THERAE/services.html
+        new file:   assets/css/animate.min.css
+        new file:   assets/css/bootstrap.min.css
+        new file:   assets/css/boxicons.min.css
+        new file:   assets/css/magnific-popup.min.css
+        new file:   assets/css/nice-select.min.css
+        new file:   assets/css/odometer.min.css
+        new file:   assets/css/owl.carousel.min.css
+        new file:   assets/css/owl.theme.default.min.css
+        new file:   assets/css/owl.video.play.html
+        new file:   assets/css/responsive.css
+        new file:   assets/css/style.css
+        new file:   assets/fonts/Flaticon.eot
+        new file:   assets/fonts/Flaticon.svg
+        new file:   assets/fonts/Flaticon.ttf
+        new file:   assets/fonts/Flaticon.woff
+        new file:   assets/fonts/Flaticon.woff2
+        new file:   assets/fonts/Flaticond41d.eot
+        new file:   assets/fonts/boxicons.eot
+        new file:   assets/fonts/boxicons.ttf
+        new file:   assets/fonts/boxicons.woff
+        new file:   assets/fonts/boxicons.woff2
+        new file:   assets/fonts/boxiconsd41d.svg
+        new file:   assets/fonts/flaticon.css
+        new file:   assets/img/1x/logo-six.png
+        new file:   assets/img/about-main1.png
+        new file:   assets/img/about1.jpg
+        new file:   assets/img/about2.jpg
+        new file:   assets/img/about3.jpg
+        new file:   assets/img/about4.jpg
+        new file:   assets/img/awards/award-main.jpg
+        new file:   assets/img/awards/award-main2.jpg
+        new file:   assets/img/awards/award1.png
+        new file:   assets/img/awards/award2.png
+        new file:   assets/img/awards/award3.png
+        new file:   assets/img/banner/1x/Asset 10.png
+        new file:   assets/img/banner/1x/banner-main4.png
+        new file:   assets/img/banner/banner-bg.jpg
+        new file:   assets/img/banner/banner-bg2.jpg
+        new file:   assets/img/banner/banner-bg3.jpg
+        new file:   assets/img/banner/banner-main1.jpg
+        new file:   assets/img/banner/banner-main2.png
+        new file:   assets/img/banner/banner-main3.png
+        new file:   assets/img/banner/banner-main4.png
+        new file:   assets/img/blog/blog-details1.jpg
+        new file:   assets/img/blog/blog-details2.jpg
+        new file:   assets/img/blog/blog-details3.jpg
+        new file:   assets/img/blog/blog-thumb1.jpg
+        new file:   assets/img/blog/blog-thumb2.jpg
+        new file:   assets/img/blog/blog-thumb3.jpg
+        new file:   assets/img/blog/blog-thumb4.jpg
+        new file:   assets/img/blog/blog-thumb5.jpg
+        new file:   assets/img/blog/blog-thumb6.jpg
+        new file:   assets/img/blog/blog-thumb7.jpg
+        new file:   assets/img/blog/blog1.jpg
+        new file:   assets/img/blog/blog10.jpg
+        new file:   assets/img/blog/blog11.jpg
+        new file:   assets/img/blog/blog12.jpg
+        new file:   assets/img/blog/blog13.jpg
+        new file:   assets/img/blog/blog14.jpg
+        new file:   assets/img/blog/blog15.jpg
+        new file:   assets/img/blog/blog16.jpg
+        new file:   assets/img/blog/blog17.jpg
+        new file:   assets/img/blog/blog18.jpg
+        new file:   assets/img/blog/blog2.jpg
+        new file:   assets/img/blog/blog3.jpg
+        new file:   assets/img/blog/blog4.jpg
+        new file:   assets/img/blog/blog5.jpg
+        new file:   assets/img/blog/blog6.jpg
+        new file:   assets/img/blog/blog7.jpg
+        new file:   assets/img/blog/blog8.jpg
+        new file:   assets/img/blog/blog9.jpg
+        new file:   assets/img/blog/comment1.jpg
+        new file:   assets/img/blog/comment2.jpg
+        new file:   assets/img/case-study/1x/case-study1.png
+        new file:   assets/img/case-study/1x/case-study2.jpg
+        new file:   assets/img/case-study/1x/case-study3.png
+        new file:   assets/img/case-study/case-study-details1.jpg
+        new file:   assets/img/case-study/case-study-details2.jpg
+        new file:   assets/img/case-study/case-study-details3.jpg
+        new file:   assets/img/case-study/case-study1.png
+        new file:   assets/img/case-study/case-study2.jpg
+        new file:   assets/img/case-study/case-study3.jpg
+        new file:   assets/img/case-study/case-study3.png
+        new file:   assets/img/case-study/case-study4.jpg
+        new file:   assets/img/counter-shape.png
+        new file:   assets/img/demos/demo1.jpg
+        new file:   assets/img/demos/demo2.jpg
+        new file:   assets/img/demos/demo3.jpg
+        new file:   assets/img/demos/demo4.jpg
+        new file:   assets/img/demos/demo5.jpg
+        new file:   assets/img/demos/demo6.jpg
+        new file:   assets/img/favicon.png
+        new file:   assets/img/gallery/gallery1.jpg
+        new file:   assets/img/gallery/gallery10.jpg
+        new file:   assets/img/gallery/gallery11.jpg
+        new file:   assets/img/gallery/gallery2.jpg
+        new file:   assets/img/gallery/gallery3.jpg
+        new file:   assets/img/gallery/gallery4.jpg
+        new file:   assets/img/gallery/gallery5.jpg
+        new file:   assets/img/gallery/gallery6.jpg
+        new file:   assets/img/gallery/gallery7.jpg
+        new file:   assets/img/gallery/gallery8.jpg
+        new file:   assets/img/gallery/gallery9.jpg
+        new file:   assets/img/logo-five.png
+        new file:   assets/img/logo-four.png
+        new file:   assets/img/logo-six.png
+        new file:   assets/img/logo-two.png
+        new file:   assets/img/logo.png
+        new file:   assets/img/logo/logo1.png
+        new file:   assets/img/logo/logo2.png
+        new file:   assets/img/logo/logo3.png
+        new file:   assets/img/logo/logo4.png
+        new file:   assets/img/logo/logo5.png
+        new file:   assets/img/portfolio/portfolio1.jpg
+        new file:   assets/img/portfolio/portfolio2.jpg
+        new file:   assets/img/portfolio/portfolio3.jpg
+        new file:   assets/img/portfolio/portfolio4.jpg
+        new file:   assets/img/portfolio/portfolio5.jpg
+        new file:   assets/img/projects/project1.jpg
+        new file:   assets/img/projects/project2.jpg
+        new file:   assets/img/projects/project3.jpg
+        new file:   assets/img/projects/project4.jpg
+        new file:   assets/img/review/review-bg.png
+        new file:   assets/img/review/review-bg2.png
+        new file:   assets/img/review/review1.jpg
+        new file:   assets/img/review/review2.jpg
+        new file:   assets/img/review/review3.jpg
+        new file:   assets/img/services/service-details1.jpg
+        new file:   assets/img/services/service1.jpg
+        new file:   assets/img/services/service2.jpg
+        new file:   assets/img/services/service3.jpg
+        new file:   assets/img/services/service4.jpg
+        new file:   assets/img/services/service5.jpg
+        new file:   assets/img/services/service6.jpg
+        new file:   assets/img/ticket-bg.jpg
+        new file:   assets/img/work/work-details1.jpg
+        new file:   assets/img/work/work-details2.jpg
+        new file:   assets/img/work/work-details3.jpg
+        new file:   assets/img/work/work1.jpg
+        new file:   assets/img/work/work10.jpg
+        new file:   assets/img/work/work2.jpg
+        new file:   assets/img/work/work3.jpg
+        new file:   assets/img/work/work4.jpg
+        new file:   assets/img/work/work5.jpg
+        new file:   assets/img/work/work6.jpg
+        new file:   assets/img/work/work7.jpg
+        new file:   assets/img/work/work8.jpg
+        new file:   assets/img/work/work9.jpg
+        new file:   assets/js/bootstrap.min.js
+        new file:   assets/js/contact-form-script.js
+        new file:   assets/js/custom.js
+        new file:   assets/js/form-validator.min.js
+        new file:   assets/js/jquery.ajaxchimp.min.js
+        new file:   assets/js/jquery.appear.min.js
+        new file:   assets/js/jquery.magnific-popup.min.js
+        new file:   assets/js/jquery.min.js
+        new file:   assets/js/jquery.nice-select.min.js
+        new file:   assets/js/odometer.min.js
+        new file:   assets/js/owl.carousel.min.js
+        new file:   assets/js/popper.min.js
+        new file:   assets/js/smoothscroll.min.js
+        new file:   assets/js/wow.min.js
+        new file:   assets/mycv/Aniche Lovelyn cv.pdf
+        new file:   assets/this_is_me/css/bootstrap.css
+        new file:   assets/this_is_me/css/color.css
+        new file:   assets/this_is_me/css/fonts/fa-brands-400.html
+        new file:   assets/this_is_me/css/fonts/fa-brands-401.html
+        new file:   assets/this_is_me/css/fonts/fa-brands-402.html
+        new file:   assets/this_is_me/css/fonts/fa-brands-403.html
+        new file:   assets/this_is_me/css/fonts/fa-brands-404.html
+        new file:   assets/this_is_me/css/fonts/fa-regular-400.html
+        new file:   assets/this_is_me/css/fonts/fa-regular-401.html
+        new file:   assets/this_is_me/css/fonts/fa-regular-402.html
+        new file:   assets/this_is_me/css/fonts/fa-regular-403.html
+        new file:   assets/this_is_me/css/fonts/fa-regular-404.html
+        new file:   assets/this_is_me/css/fonts/fa-solid-900.html
+        new file:   assets/this_is_me/css/fonts/fa-solid-901.html
+        new file:   assets/this_is_me/css/fonts/fa-solid-902.html
+        new file:   assets/this_is_me/css/fonts/fa-solid-903.html
+        new file:   assets/this_is_me/css/fonts/fa-solid-904.html
+        new file:   assets/this_is_me/css/icofont.css
+        new file:   assets/this_is_me/css/icomoon.css
+        new file:   assets/this_is_me/css/modal.css
+        new file:   assets/this_is_me/css/owl.video.play.html
+        new file:   assets/this_is_me/css/plugins.css
+        new file:   assets/this_is_me/css/responsive.css
+        new file:   assets/this_is_me/css/style.css
+        new file:   assets/this_is_me/fonts/ElegantIcons.eot
+        new file:   assets/this_is_me/fonts/ElegantIcons.svg
+        new file:   assets/this_is_me/fonts/ElegantIcons.ttf
+        new file:   assets/this_is_me/fonts/ElegantIcons.woff
+        new file:   assets/this_is_me/fonts/ElegantIconsd41d.eot
+        new file:   assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regular-2.html
+        new file:   assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regular-3.html
+        new file:   assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regular-4.html
+        new file:   assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regular-5.html
+        new file:   assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regular.html
+        new file:   assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regulard41d.html
+        new file:   assets/this_is_me/fonts/fa-brands-400.eot
+        new file:   assets/this_is_me/fonts/fa-brands-400.html
+        new file:   assets/this_is_me/fonts/fa-brands-400.svg
+        new file:   assets/this_is_me/fonts/fa-brands-400.ttf
+        new file:   assets/this_is_me/fonts/fa-brands-400.woff
+        new file:   assets/this_is_me/fonts/fa-brands-400d41d.eot
+        new file:   assets/this_is_me/fonts/fa-regular-400.eot
+        new file:   assets/this_is_me/fonts/fa-regular-400.html
+        new file:   assets/this_is_me/fonts/fa-regular-400.svg
+        new file:   assets/this_is_me/fonts/fa-regular-400.ttf
+        new file:   assets/this_is_me/fonts/fa-regular-400.woff
+        new file:   assets/this_is_me/fonts/fa-regular-400d41d.eot
+        new file:   assets/this_is_me/fonts/fa-solid-900.eot
+        new file:   assets/this_is_me/fonts/fa-solid-900.html
+        new file:   assets/this_is_me/fonts/fa-solid-900.svg
+        new file:   assets/this_is_me/fonts/fa-solid-900.ttf
+        new file:   assets/this_is_me/fonts/fa-solid-900.woff
+        new file:   assets/this_is_me/fonts/fa-solid-900d41d.eot
+        new file:   assets/this_is_me/fonts/icomoonbd7d.eot
+        new file:   assets/this_is_me/fonts/icomoonbd7d.svg
+        new file:   assets/this_is_me/fonts/icomoonbd7d.ttf
+        new file:   assets/this_is_me/fonts/icomoonbd7d.woff
+        new file:   assets/this_is_me/fonts/themify9f24.eot
+        new file:   assets/this_is_me/fonts/themify9f24.svg
+        new file:   assets/this_is_me/fonts/themify9f24.ttf
+        new file:   assets/this_is_me/fonts/themify9f24.woff
+        new file:   assets/this_is_me/fonts/themifyd41d.eot
+        new file:   assets/this_is_me/images/1x/appointment-img_1-100.jpg
+        new file:   assets/this_is_me/images/1x/blog-100.jpg
+        new file:   assets/this_is_me/images/1x/blog-img01-100.jpg
+        new file:   assets/this_is_me/images/1x/blog1-100.jpg
+        new file:   assets/this_is_me/images/1x/blog3-100.jpg
+        new file:   assets/this_is_me/images/1x/cart-100.jpg
+        new file:   assets/this_is_me/images/1x/cart1-100.jpg
+        new file:   assets/this_is_me/images/1x/glowithin-logo.png
+        new file:   assets/this_is_me/images/1x/hair-img01-100.jpg
+        new file:   assets/this_is_me/images/1x/hair-img02-100.jpg
+        new file:   assets/this_is_me/images/1x/hair-img03-100.jpg
+        new file:   assets/this_is_me/images/1x/hair-img04-100.jpg
+        new file:   assets/this_is_me/images/1x/hair-img05-100.jpg
+        new file:   assets/this_is_me/images/1x/hair-img06-100.jpg
+        new file:   assets/this_is_me/images/1x/nails-img01-100.jpg
+        new file:   assets/this_is_me/images/1x/nails-img02-100.jpg
+        new file:   assets/this_is_me/images/1x/nails-img03-100.jpg
+        new file:   assets/this_is_me/images/1x/nails-img04-100.jpg
+        new file:   assets/this_is_me/images/1x/nails-img05-100.jpg
+        new file:   assets/this_is_me/images/1x/nails-img06-100.jpg
+        new file:   assets/this_is_me/images/1x/product-img01-100.jpg
+        new file:   assets/this_is_me/images/1x/product-img02-100.jpg
+        new file:   assets/this_is_me/images/1x/product-img03-100.jpg
+        new file:   assets/this_is_me/images/1x/product-img04-100.jpg
+        new file:   assets/this_is_me/images/1x/product-img05-100.jpg
+        new file:   assets/this_is_me/images/1x/product-img06-100.jpg
+        new file:   assets/this_is_me/images/1x/product-img07-100.jpg
+        new file:   assets/this_is_me/images/1x/spa-100.jpg
+        new file:   assets/this_is_me/images/1x/team-img01_1-100.jpg
+        new file:   assets/this_is_me/images/1x/treatment-img01-100.jpg
+        new file:   assets/this_is_me/images/1x/treatment-img02-100.jpg
+        new file:   assets/this_is_me/images/1x/treatment-img03-100.jpg
+        new file:   assets/this_is_me/images/1x/treatment-img04-100.jpg
+        new file:   assets/this_is_me/images/1x/treatment-img05-100.jpg
+        new file:   assets/this_is_me/images/1x/treatment-img06-100.jpg
+        new file:   assets/this_is_me/images/404-icon.png
+        new file:   assets/this_is_me/images/43 Nail Ideas to Inspire Your Next Mani _ Page 2 of 4 _ StayGlam.jpeg
+        new file:   assets/this_is_me/images/Spa_Treatments_Inspired_by_the_Lunar_Cycle___Organic_Spa_Magazine-removebg-preview.png
+        new file:   assets/this_is_me/images/These_8_DIY_Eye_Masks_Will_Solve_Your_Under-Eye_Problems___Hello_Glow-removebg-preview.png
+        new file:   assets/this_is_me/images/aboutus-img.jpg
+        new file:   assets/this_is_me/images/appointment-img-100.jpg
+        new file:   assets/this_is_me/images/appointment-img.jpg
+        new file:   assets/this_is_me/images/appointment-img_1-100.jpg
+        new file:   assets/this_is_me/images/blog-fullimg-01.jpg
+        new file:   assets/this_is_me/images/blog-fullimg-02.jpg
+        new file:   assets/this_is_me/images/blog-fullimg-03.jpg
+        new file:   assets/this_is_me/images/blog-fullimg-04.jpg
+        new file:   assets/this_is_me/images/blog-fullimg-05.jpg
+        new file:   assets/this_is_me/images/blog-fullimg-06.jpg
+        new file:   assets/this_is_me/images/blog-fullimg-07.jpg
+        new file:   assets/this_is_me/images/cart-img01.jpg
+        new file:   assets/this_is_me/images/cart-img02.jpg
+        new file:   assets/this_is_me/images/comment-img01.png
+        new file:   assets/this_is_me/images/comment-img02.png
+        new file:   assets/this_is_me/images/contactus-img.jpg
+        new file:   assets/this_is_me/images/desktop.ini
+        new file:   assets/this_is_me/images/galler-img13-100.jpg
+        new file:   assets/this_is_me/images/gallery-img-11-100.jpg
+        new file:   assets/this_is_me/images/gallery-img01.jpg
+        new file:   assets/this_is_me/images/gallery-img02.jpg
+        new file:   assets/this_is_me/images/gallery-img03.jpg
+        new file:   assets/this_is_me/images/gallery-img04.jpg
+        new file:   assets/this_is_me/images/gallery-img05.jpg
+        new file:   assets/this_is_me/images/gallery-img05.png
+        new file:   assets/this_is_me/images/gallery-img06-100.jpg
+        new file:   assets/this_is_me/images/gallery-img06.jpg
+        new file:   assets/this_is_me/images/gallery-img07-100.jpg
+        new file:   assets/this_is_me/images/gallery-img07.jpg
+        new file:   assets/this_is_me/images/gallery-img08-100.jpg
+        new file:   assets/this_is_me/images/gallery-img08.jpg
+        new file:   assets/this_is_me/images/gallery-img09.jpg
+        new file:   assets/this_is_me/images/gallery-img10-100.jpg
+        new file:   assets/this_is_me/images/gallery-img10.jpg
+        new file:   assets/this_is_me/images/gallery-img11.jpg
+        new file:   assets/this_is_me/images/gallery-img12-100.jpg
+        new file:   assets/this_is_me/images/gallery-img12.jpg
+        new file:   assets/this_is_me/images/gallery-img13.jpg
+        new file:   assets/this_is_me/images/gallery-img14-100.jpg
+        new file:   assets/this_is_me/images/gallery-img14.jpg
+        new file:   assets/this_is_me/images/gallery-img15.jpg
+        new file:   assets/this_is_me/images/gallery-img16.jpg
+        new file:   assets/this_is_me/images/gallery-img17.jpg
+        new file:   assets/this_is_me/images/gallery-img18.jpg
+        new file:   assets/this_is_me/images/gallery-img19.jpg
+        new file:   assets/this_is_me/images/gift-img01-100.jpg
+        new file:   assets/this_is_me/images/gift-img01.jpg
+        new file:   assets/this_is_me/images/gift-img02-100.jpg
+        new file:   assets/this_is_me/images/gift-img02.jpg
+        new file:   assets/this_is_me/images/gift-img03-100.jpg
+        new file:   assets/this_is_me/images/gift-img03.jpg
+        new file:   assets/this_is_me/images/glowithin-logo.png
+        new file:   assets/this_is_me/images/gqallery-img09-100.jpg
+        new file:   assets/this_is_me/images/hair-100.jpg
+        new file:   assets/this_is_me/images/images (6).jpeg
+        new file:   assets/this_is_me/images/images (7).jpeg
+        new file:   assets/this_is_me/images/images (8).jpeg
+        new file:   assets/this_is_me/images/img1.jpg
+        new file:   assets/this_is_me/images/img14.png
+        new file:   assets/this_is_me/images/img16.jpg
+        new file:   assets/this_is_me/images/img17.jpg
+        new file:   assets/this_is_me/images/img18.jpg
+        new file:   assets/this_is_me/images/img2.jpg
+        new file:   assets/this_is_me/images/img3.png
+        new file:   assets/this_is_me/images/img4.png
+        new file:   assets/this_is_me/images/logo.png
+        new file:   assets/this_is_me/images/manicure-100.jpg
+        new file:   assets/this_is_me/images/nails-100.jpg
+        new file:   assets/this_is_me/images/paradise-img.jpg
+        new file:   assets/this_is_me/images/paradise-img1.jpg
+        new file:   assets/this_is_me/images/pedicure-100.jpg
+        new file:   assets/this_is_me/images/post-img01.jpg
+        new file:   assets/this_is_me/images/post-img02.jpg
+        new file:   assets/this_is_me/images/post-img03.jpg
+        new file:   assets/this_is_me/images/post-img04.jpg
+        new file:   assets/this_is_me/images/post-img05.jpg
+        new file:   assets/this_is_me/images/prettyPhoto/dark_rounded/btnNext.html
+        new file:   assets/this_is_me/images/prettyPhoto/dark_rounded/btnPrevious.html
+        new file:   assets/this_is_me/images/prettyPhoto/dark_rounded/contentPattern.html
+        new file:   assets/this_is_me/images/prettyPhoto/dark_rounded/loader.html
+        new file:   assets/this_is_me/images/prettyPhoto/dark_rounded/sprite.html
+        new file:   assets/this_is_me/images/prettyPhoto/dark_square/btnNext.html
+        new file:   assets/this_is_me/images/prettyPhoto/dark_square/btnPrevious.html
+        new file:   assets/this_is_me/images/prettyPhoto/dark_square/loader.html
+        new file:   assets/this_is_me/images/prettyPhoto/dark_square/sprite.html
+        new file:   assets/this_is_me/images/prettyPhoto/default/default_thumb.html
+        new file:   assets/this_is_me/images/prettyPhoto/default/loader.html
+        new file:   assets/this_is_me/images/prettyPhoto/default/sprite.html
+        new file:   assets/this_is_me/images/prettyPhoto/default/sprite_next.html
+        new file:   assets/this_is_me/images/prettyPhoto/default/sprite_prev.html
+        new file:   assets/this_is_me/images/prettyPhoto/default/sprite_x.html
+        new file:   assets/this_is_me/images/prettyPhoto/default/sprite_y.html
+        new file:   assets/this_is_me/images/prettyPhoto/facebook/btnNext.html
+        new file:   assets/this_is_me/images/prettyPhoto/facebook/btnPrevious.html
+        new file:   assets/this_is_me/images/prettyPhoto/facebook/contentPatternBottom.html
+        new file:   assets/this_is_me/images/prettyPhoto/facebook/contentPatternLeft.html
+        new file:   assets/this_is_me/images/prettyPhoto/facebook/contentPatternRight.html
+        new file:   assets/this_is_me/images/prettyPhoto/facebook/contentPatternTop.html
+        new file:   assets/this_is_me/images/prettyPhoto/facebook/default_thumbnail.html
+        new file:   assets/this_is_me/images/prettyPhoto/facebook/loader.html
+        new file:   assets/this_is_me/images/prettyPhoto/facebook/sprite.html
+        new file:   assets/this_is_me/images/prettyPhoto/light_rounded/btnNext.html
+        new file:   assets/this_is_me/images/prettyPhoto/light_rounded/btnPrevious.html
+        new file:   assets/this_is_me/images/prettyPhoto/light_rounded/loader.html
+        new file:   assets/this_is_me/images/prettyPhoto/light_rounded/sprite.html
+        new file:   assets/this_is_me/images/prettyPhoto/light_square/btnNext.html
+        new file:   assets/this_is_me/images/prettyPhoto/light_square/btnPrevious.html
+        new file:   assets/this_is_me/images/prettyPhoto/light_square/sprite.html
+        new file:   assets/this_is_me/images/pricing-img01-100.jpg
+        new file:   assets/this_is_me/images/pricing-img01.jpg
+        new file:   assets/this_is_me/images/pricing-img02-100.jpg
+        new file:   assets/this_is_me/images/pricing-img02.jpg
+        new file:   assets/this_is_me/images/pricing-img03-100.jpg
+        new file:   assets/this_is_me/images/pricing-img03.jpg
+        new file:   assets/this_is_me/images/pricing-img04-100.jpg
+        new file:   assets/this_is_me/images/pricing-img04.jpg
+        new file:   assets/this_is_me/images/product-100.jpg
+        new file:   assets/this_is_me/images/product-img01-100.jpg
+        new file:   assets/this_is_me/images/product-img01.jpg
+        new file:   assets/this_is_me/images/product-img02-100.jpg
+        new file:   assets/this_is_me/images/product-img02.jpg
+        new file:   assets/this_is_me/images/product-img03-100.jpg
+        new file:   assets/this_is_me/images/product-img03.jpg
+        new file:   assets/this_is_me/images/product-img04-100.jpg
+        new file:   assets/this_is_me/images/product-img04.jpg
+        new file:   assets/this_is_me/images/product-img05.jpg
+        new file:   assets/this_is_me/images/product-img06.jpg
+        new file:   assets/this_is_me/images/product-img07.jpg
+        new file:   assets/this_is_me/images/product-img08.jpg
+        new file:   assets/this_is_me/images/product-img09.jpg
+        new file:   assets/this_is_me/images/product-img10.jpg
+        new file:   assets/this_is_me/images/product-img11.jpg
+        new file:   assets/this_is_me/images/product-img12.jpg
+        new file:   assets/this_is_me/images/product-img13.jpg
+        new file:   assets/this_is_me/images/quotes-img01.png
+        new file:   assets/this_is_me/images/rune-enstad-qeuJczNo54w-unsplash.jpg
+        new file:   assets/this_is_me/images/service-img1.jpg
+        new file:   assets/this_is_me/images/service-video.jpg
+        new file:   assets/this_is_me/images/services-img01.jpg
+        new file:   assets/this_is_me/images/services-img02.jpg
+        new file:   assets/this_is_me/images/services-img03.jpg
+        new file:   assets/this_is_me/images/services-img04.jpg
+        new file:   assets/this_is_me/images/slider-img01.png
+        new file:   assets/this_is_me/images/slider-img02.jpg
+        new file:   assets/this_is_me/images/slider-img02.png
+        new file:   assets/this_is_me/images/slider-img07.png
+        new file:   assets/this_is_me/images/slider-img09.png
+        new file:   assets/this_is_me/images/team-img01.jpg
+        new file:   assets/this_is_me/images/team-img01_1-100.jpg
+        new file:   assets/this_is_me/images/team-img02-100.jpg
+        new file:   assets/this_is_me/images/team-img02.jpg
+        new file:   assets/this_is_me/images/team-img03-100.jpg
+        new file:   assets/this_is_me/images/team-img03.jpg
+        new file:   assets/this_is_me/images/team-img04-100.jpg
+        new file:   assets/this_is_me/images/team-img04.jpg
+        new file:   assets/this_is_me/images/testimonial-img01.jpg
+        new file:   assets/this_is_me/images/testimonial-img02.jpg
+        new file:   assets/this_is_me/images/testimonial-img03.jpg
+        new file:   assets/this_is_me/images/video-img.jpg
+        new file:   assets/this_is_me/images/whychooseus-img.jpg
+        new file:   assets/this_is_me/images/whychooseus-img02.png
+        new file:   assets/this_is_me/images/whychooseus-img03.png
+        new file:   assets/this_is_me/images/widget-img01.jpg
+        new file:   assets/this_is_me/images/widget-img02.jpg
+        new file:   assets/this_is_me/images/widget-img03.jpg
+        new file:   assets/this_is_me/images/widget-img04.jpg
+        new file:   assets/this_is_me/images/widget-img05.jpg
+        new file:   assets/this_is_me/images/widget-img06.jpg
+        new file:   assets/this_is_me/index.html
+        new file:   assets/this_is_me/js/appear.js
+        new file:   assets/this_is_me/js/countTo.js
+        new file:   assets/this_is_me/js/countdown.js
+        new file:   assets/this_is_me/js/fancybox.js
+        new file:   assets/this_is_me/js/html5lightbox.js
+        new file:   assets/this_is_me/js/isotop.js
+        new file:   assets/this_is_me/js/isotope.pkgd.js
+        new file:   assets/this_is_me/js/main.js
+        new file:   assets/this_is_me/js/owl.carousel.min.js
+        new file:   assets/this_is_me/js/vendor/bootstrap.min.js
+        new file:   assets/this_is_me/js/vendor/jquery-library.js
+        new file:   assets/this_is_me/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js
+        new file:   assets/this_is_me/style.css
+        new file:   debug.log
+        new file:   index.html
+        new file:   js/jquery.simple-text-rotator.js
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        deleted:    assets/img/about-main1.png
+        deleted:    assets/img/about1.jpg
+        deleted:    assets/img/about3.jpg
+        deleted:    assets/img/about4.jpg
+        deleted:    assets/img/awards/award-main.jpg
+        deleted:    assets/img/awards/award-main2.jpg
+        deleted:    assets/img/awards/award1.png
+        deleted:    assets/img/awards/award2.png
+        deleted:    assets/img/awards/award3.png
+        deleted:    assets/img/banner/1x/Asset 10.png
+        deleted:    assets/img/banner/1x/banner-main4.png
+        deleted:    assets/img/banner/banner-bg.jpg
+        deleted:    assets/img/banner/banner-bg2.jpg
+        deleted:    assets/img/banner/banner-bg3.jpg
+        deleted:    assets/img/banner/banner-main1.jpg
+        deleted:    assets/img/banner/banner-main2.png
+        deleted:    assets/img/banner/banner-main3.png
+        deleted:    assets/img/blog/blog-details1.jpg
+        deleted:    assets/img/blog/blog-details2.jpg
+        deleted:    assets/img/blog/blog-details3.jpg
+        deleted:    assets/img/blog/blog-thumb1.jpg
+        deleted:    assets/img/blog/blog-thumb2.jpg
+        deleted:    assets/img/blog/blog-thumb3.jpg
+        deleted:    assets/img/blog/blog-thumb4.jpg
+        deleted:    assets/img/blog/blog-thumb5.jpg
+        deleted:    assets/img/blog/blog-thumb6.jpg
+        deleted:    assets/img/blog/blog-thumb7.jpg
+        deleted:    assets/img/blog/blog1.jpg
+        deleted:    assets/img/blog/blog10.jpg
+        deleted:    assets/img/blog/blog11.jpg
+        deleted:    assets/img/blog/blog12.jpg
+        deleted:    assets/img/blog/blog13.jpg
+        deleted:    assets/img/blog/blog14.jpg
+        deleted:    assets/img/blog/blog15.jpg
+        deleted:    assets/img/blog/blog16.jpg
+        deleted:    assets/img/blog/blog17.jpg
+        deleted:    assets/img/blog/blog18.jpg
+        deleted:    assets/img/blog/blog2.jpg
+        deleted:    assets/img/blog/blog3.jpg
+        deleted:    assets/img/blog/blog4.jpg
+        deleted:    assets/img/blog/blog5.jpg
+        deleted:    assets/img/blog/blog6.jpg
+        deleted:    assets/img/blog/blog7.jpg
+        deleted:    assets/img/blog/blog8.jpg
+        deleted:    assets/img/blog/blog9.jpg
+        deleted:    assets/img/blog/comment1.jpg
+        deleted:    assets/img/blog/comment2.jpg
+        deleted:    assets/img/demos/demo1.jpg
+        deleted:    assets/img/demos/demo2.jpg
+        deleted:    assets/img/demos/demo3.jpg
+        deleted:    assets/img/demos/demo4.jpg
+        deleted:    assets/img/demos/demo5.jpg
+        deleted:    assets/img/demos/demo6.jpg
+        deleted:    assets/img/gallery/gallery1.jpg
+        deleted:    assets/img/gallery/gallery10.jpg
+        deleted:    assets/img/gallery/gallery11.jpg
+        deleted:    assets/img/gallery/gallery2.jpg
+        deleted:    assets/img/gallery/gallery3.jpg
+        deleted:    assets/img/gallery/gallery4.jpg
+        deleted:    assets/img/gallery/gallery5.jpg
+        deleted:    assets/img/gallery/gallery6.jpg
+        deleted:    assets/img/gallery/gallery7.jpg
+        deleted:    assets/img/gallery/gallery8.jpg
+        deleted:    assets/img/gallery/gallery9.jpg
+        deleted:    assets/img/projects/project1.jpg
+        deleted:    assets/img/projects/project2.jpg
+        deleted:    assets/img/projects/project3.jpg
+        deleted:    assets/img/projects/project4.jpg
+        deleted:    assets/img/services/service-details1.jpg
+        deleted:    assets/img/services/service1.jpg
+        deleted:    assets/img/services/service2.jpg
+        deleted:    assets/img/services/service3.jpg
+        deleted:    assets/img/services/service4.jpg
+        deleted:    assets/img/services/service5.jpg
+        deleted:    assets/img/services/service6.jpg
+        deleted:    assets/img/ticket-bg.jpg
+        deleted:    assets/img/work/work-details1.jpg
+        deleted:    assets/img/work/work-details2.jpg
+        deleted:    assets/img/work/work-details3.jpg
+        deleted:    assets/img/work/work1.jpg
+        deleted:    assets/img/work/work10.jpg
+        deleted:    assets/img/work/work2.jpg
+        deleted:    assets/img/work/work3.jpg
+        deleted:    assets/img/work/work4.jpg
+        deleted:    assets/img/work/work5.jpg
+        deleted:    assets/img/work/work6.jpg
+        deleted:    assets/img/work/work7.jpg
+        deleted:    assets/img/work/work8.jpg
+        deleted:    assets/img/work/work9.jpg
+
+
+Lovelyn@DESKTOP-QE1AFK3 MINGW64 /f/MYPORTFOLIO (master)
+$ git add .
+
+Lovelyn@DESKTOP-QE1AFK3 MINGW64 /f/MYPORTFOLIO (master)
+$ git commit -m "my first deployment"
+[master (root-commit) 84e8894] my first deployment
+ 433 files changed, 90861 insertions(+)
+ create mode 100644 assets/THERAE/about.html
+ create mode 100644 assets/THERAE/assets/css/sprite-skin-flat.html
+ create mode 100644 assets/THERAE/assets/css/style-freedom.css
+ create mode 100644 assets/THERAE/assets/fonts/fontawesome-webfont3e6e.eot
+ create mode 100644 assets/THERAE/assets/fonts/fontawesome-webfont3e6e.svg
+ create mode 100644 assets/THERAE/assets/fonts/fontawesome-webfont3e6e.ttf
+ create mode 100644 assets/THERAE/assets/fonts/fontawesome-webfont3e6e.woff
+ create mode 100644 assets/THERAE/assets/fonts/fontawesome-webfont3e6e.woff2
+ create mode 100644 assets/THERAE/assets/fonts/fontawesome-webfontd41d.eot
+ create mode 100644 assets/THERAE/assets/images/Asset 6.png
+ create mode 100644 assets/THERAE/assets/images/Asset 7.png
+ create mode 100644 assets/THERAE/assets/images/_therae__20200920_072022_0.jpg
+ create mode 100644 assets/THERAE/assets/images/_therae__20200920_072022_1.jpg
+ create mode 100644 assets/THERAE/assets/images/_therae__20200920_072022_2.jpg
+ create mode 100644 assets/THERAE/assets/images/_therae__20200920_072058_0.jpg
+ create mode 100644 assets/THERAE/assets/images/_therae__20200920_072058_1.jpg
+ create mode 100644 assets/THERAE/assets/images/_therae__20200924_174135_0.jpg
+ create mode 100644 assets/THERAE/assets/images/_therae__20200924_175956_1.jpg
+ create mode 100644 assets/THERAE/assets/images/_therae__20200924_180514_1.jpg
+ create mode 100644 assets/THERAE/assets/images/_therae__20200924_180514_2.jpg
+ create mode 100644 assets/THERAE/assets/images/ab-100.jpg
+ create mode 100644 assets/THERAE/assets/images/about-bg.html
+ create mode 100644 assets/THERAE/assets/images/banner1.jpg
+ create mode 100644 assets/THERAE/assets/images/banner2.jpg
+ create mode 100644 assets/THERAE/assets/images/banner3.jpg
+ create mode 100644 assets/THERAE/assets/images/bg2.jpg
+ create mode 100644 assets/THERAE/assets/images/close.png
+ create mode 100644 assets/THERAE/assets/images/cross.png
+ create mode 100644 assets/THERAE/assets/images/down.png
+ create mode 100644 assets/THERAE/assets/images/gallerry-100.jpg
+ create mode 100644 assets/THERAE/assets/images/gallery-100-100.jpg
+ create mode 100644 assets/THERAE/assets/images/gallery-100.jpg
+ create mode 100644 assets/THERAE/assets/images/gallery1.jpg
+ create mode 100644 assets/THERAE/assets/images/gallery1_1-100.jpg
+ create mode 100644 assets/THERAE/assets/images/gallery2.jpg
+ create mode 100644 assets/THERAE/assets/images/gallery2_1-100.jpg
+ create mode 100644 assets/THERAE/assets/images/gallery3-100.jpg
+ create mode 100644 assets/THERAE/assets/images/gallery4-100.jpg
+ create mode 100644 assets/THERAE/assets/images/gallery5-100.jpg
+ create mode 100644 assets/THERAE/assets/images/galleryy-100.jpg
+ create mode 100644 assets/THERAE/assets/images/index-2in1.jpg
+ create mode 100644 assets/THERAE/assets/images/index-2in2-100.jpg
+ create mode 100644 assets/THERAE/assets/images/index-2in2_1-100.jpg
+ create mode 100644 assets/THERAE/assets/images/index-grid1.jpg
+ create mode 100644 assets/THERAE/assets/images/index-grid2.jpg
+ create mode 100644 assets/THERAE/assets/images/index-img1.jpg
+ create mode 100644 assets/THERAE/assets/images/index-img2.jpg
+ create mode 100644 assets/THERAE/assets/images/index-img3.jpg
+ create mode 100644 assets/THERAE/assets/images/index-img4.jpg
+ create mode 100644 assets/THERAE/assets/images/index-img5.jpg
+ create mode 100644 assets/THERAE/assets/images/index-sec1.jpg
+ create mode 100644 assets/THERAE/assets/images/index-sec2 (2).jpg
+ create mode 100644 assets/THERAE/assets/images/index-sec3.jpg
+ create mode 100644 assets/THERAE/assets/images/index.grid2.jpg
+ create mode 100644 assets/THERAE/assets/images/index.grid22-100.jpg
+ create mode 100644 assets/THERAE/assets/images/loading.html
+ create mode 100644 assets/THERAE/assets/images/menu3.png
+ create mode 100644 assets/THERAE/assets/images/service1.jpg
+ create mode 100644 assets/THERAE/assets/images/shop-100.jpg
+ create mode 100644 assets/THERAE/assets/images/shop1-100.jpg
+ create mode 100644 assets/THERAE/assets/images/shop2-100.jpg
+ create mode 100644 assets/THERAE/assets/images/shop3-100.jpg
+ create mode 100644 assets/THERAE/assets/images/star1.html
+ create mode 100644 assets/THERAE/assets/images/star22.html
+ create mode 100644 assets/THERAE/assets/js/jquery-2.2.3.min.js
+ create mode 100644 assets/THERAE/assets/js/jquery-3.3.1.min.js
+ create mode 100644 assets/THERAE/assets/js/lightbox-plus-jquery.min.js
+ create mode 100644 assets/THERAE/contact.html
+ create mode 100644 assets/THERAE/debug.log
+ create mode 100644 assets/THERAE/ecommerce.html
+ create mode 100644 assets/THERAE/gallery.html
+ create mode 100644 assets/THERAE/index.html
+ create mode 100644 assets/THERAE/services.html
+ create mode 100644 assets/css/animate.min.css
+ create mode 100644 assets/css/bootstrap.min.css
+ create mode 100644 assets/css/boxicons.min.css
+ create mode 100644 assets/css/magnific-popup.min.css
+ create mode 100644 assets/css/nice-select.min.css
+ create mode 100644 assets/css/odometer.min.css
+ create mode 100644 assets/css/owl.carousel.min.css
+ create mode 100644 assets/css/owl.theme.default.min.css
+ create mode 100644 assets/css/owl.video.play.html
+ create mode 100644 assets/css/responsive.css
+ create mode 100644 assets/css/style.css
+ create mode 100644 assets/fonts/Flaticon.eot
+ create mode 100644 assets/fonts/Flaticon.svg
+ create mode 100644 assets/fonts/Flaticon.ttf
+ create mode 100644 assets/fonts/Flaticon.woff
+ create mode 100644 assets/fonts/Flaticon.woff2
+ create mode 100644 assets/fonts/Flaticond41d.eot
+ create mode 100644 assets/fonts/boxicons.eot
+ create mode 100644 assets/fonts/boxicons.ttf
+ create mode 100644 assets/fonts/boxicons.woff
+ create mode 100644 assets/fonts/boxicons.woff2
+ create mode 100644 assets/fonts/boxiconsd41d.svg
+ create mode 100644 assets/fonts/flaticon.css
+ create mode 100644 assets/img/1x/logo-six.png
+ create mode 100644 assets/img/about2.jpg
+ create mode 100644 assets/img/banner/banner-main4.png
+ create mode 100644 assets/img/case-study/1x/case-study1.png
+ create mode 100644 assets/img/case-study/1x/case-study2.jpg
+ create mode 100644 assets/img/case-study/1x/case-study3.png
+ create mode 100644 assets/img/case-study/case-study-details1.jpg
+ create mode 100644 assets/img/case-study/case-study-details2.jpg
+ create mode 100644 assets/img/case-study/case-study-details3.jpg
+ create mode 100644 assets/img/case-study/case-study1.png
+ create mode 100644 assets/img/case-study/case-study2.jpg
+ create mode 100644 assets/img/case-study/case-study3.jpg
+ create mode 100644 assets/img/case-study/case-study3.png
+ create mode 100644 assets/img/case-study/case-study4.jpg
+ create mode 100644 assets/img/counter-shape.png
+ create mode 100644 assets/img/favicon.png
+ create mode 100644 assets/img/logo-five.png
+ create mode 100644 assets/img/logo-four.png
+ create mode 100644 assets/img/logo-six.png
+ create mode 100644 assets/img/logo-two.png
+ create mode 100644 assets/img/logo.png
+ create mode 100644 assets/img/logo/logo1.png
+ create mode 100644 assets/img/logo/logo2.png
+ create mode 100644 assets/img/logo/logo3.png
+ create mode 100644 assets/img/logo/logo4.png
+ create mode 100644 assets/img/logo/logo5.png
+ create mode 100644 assets/img/portfolio/portfolio1.jpg
+ create mode 100644 assets/img/portfolio/portfolio2.jpg
+ create mode 100644 assets/img/portfolio/portfolio3.jpg
+ create mode 100644 assets/img/portfolio/portfolio4.jpg
+ create mode 100644 assets/img/portfolio/portfolio5.jpg
+ create mode 100644 assets/img/review/review-bg.png
+ create mode 100644 assets/img/review/review-bg2.png
+ create mode 100644 assets/img/review/review1.jpg
+ create mode 100644 assets/img/review/review2.jpg
+ create mode 100644 assets/img/review/review3.jpg
+ create mode 100644 assets/js/bootstrap.min.js
+ create mode 100644 assets/js/contact-form-script.js
+ create mode 100644 assets/js/custom.js
+ create mode 100644 assets/js/form-validator.min.js
+ create mode 100644 assets/js/jquery.ajaxchimp.min.js
+ create mode 100644 assets/js/jquery.appear.min.js
+ create mode 100644 assets/js/jquery.magnific-popup.min.js
+ create mode 100644 assets/js/jquery.min.js
+ create mode 100644 assets/js/jquery.nice-select.min.js
+ create mode 100644 assets/js/odometer.min.js
+ create mode 100644 assets/js/owl.carousel.min.js
+ create mode 100644 assets/js/popper.min.js
+ create mode 100644 assets/js/smoothscroll.min.js
+ create mode 100644 assets/js/wow.min.js
+ create mode 100644 assets/mycv/Aniche Lovelyn cv.pdf
+ create mode 100644 assets/this_is_me/css/bootstrap.css
+ create mode 100644 assets/this_is_me/css/color.css
+ create mode 100644 assets/this_is_me/css/fonts/fa-brands-400.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-brands-401.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-brands-402.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-brands-403.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-brands-404.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-regular-400.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-regular-401.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-regular-402.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-regular-403.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-regular-404.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-solid-900.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-solid-901.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-solid-902.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-solid-903.html
+ create mode 100644 assets/this_is_me/css/fonts/fa-solid-904.html
+ create mode 100644 assets/this_is_me/css/icofont.css
+ create mode 100644 assets/this_is_me/css/icomoon.css
+ create mode 100644 assets/this_is_me/css/modal.css
+ create mode 100644 assets/this_is_me/css/owl.video.play.html
+ create mode 100644 assets/this_is_me/css/plugins.css
+ create mode 100644 assets/this_is_me/css/responsive.css
+ create mode 100644 assets/this_is_me/css/style.css
+ create mode 100644 assets/this_is_me/fonts/ElegantIcons.eot
+ create mode 100644 assets/this_is_me/fonts/ElegantIcons.svg
+ create mode 100644 assets/this_is_me/fonts/ElegantIcons.ttf
+ create mode 100644 assets/this_is_me/fonts/ElegantIcons.woff
+ create mode 100644 assets/this_is_me/fonts/ElegantIconsd41d.eot
+ create mode 100644 assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regular-2.html
+ create mode 100644 assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regular-3.html
+ create mode 100644 assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regular-4.html
+ create mode 100644 assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regular-5.html
+ create mode 100644 assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regular.html
+ create mode 100644 assets/this_is_me/fonts/bootstrap/glyphicons-halflings-regulard41d.html
+ create mode 100644 assets/this_is_me/fonts/fa-brands-400.eot
+ create mode 100644 assets/this_is_me/fonts/fa-brands-400.html
+ create mode 100644 assets/this_is_me/fonts/fa-brands-400.svg
+ create mode 100644 assets/this_is_me/fonts/fa-brands-400.ttf
+ create mode 100644 assets/this_is_me/fonts/fa-brands-400.woff
+ create mode 100644 assets/this_is_me/fonts/fa-brands-400d41d.eot
+ create mode 100644 assets/this_is_me/fonts/fa-regular-400.eot
+ create mode 100644 assets/this_is_me/fonts/fa-regular-400.html
+ create mode 100644 assets/this_is_me/fonts/fa-regular-400.svg
+ create mode 100644 assets/this_is_me/fonts/fa-regular-400.ttf
+ create mode 100644 assets/this_is_me/fonts/fa-regular-400.woff
+ create mode 100644 assets/this_is_me/fonts/fa-regular-400d41d.eot
+ create mode 100644 assets/this_is_me/fonts/fa-solid-900.eot
+ create mode 100644 assets/this_is_me/fonts/fa-solid-900.html
+ create mode 100644 assets/this_is_me/fonts/fa-solid-900.svg
+ create mode 100644 assets/this_is_me/fonts/fa-solid-900.ttf
+ create mode 100644 assets/this_is_me/fonts/fa-solid-900.woff
+ create mode 100644 assets/this_is_me/fonts/fa-solid-900d41d.eot
+ create mode 100644 assets/this_is_me/fonts/icomoonbd7d.eot
+ create mode 100644 assets/this_is_me/fonts/icomoonbd7d.svg
+ create mode 100644 assets/this_is_me/fonts/icomoonbd7d.ttf
+ create mode 100644 assets/this_is_me/fonts/icomoonbd7d.woff
+ create mode 100644 assets/this_is_me/fonts/themify9f24.eot
+ create mode 100644 assets/this_is_me/fonts/themify9f24.svg
+ create mode 100644 assets/this_is_me/fonts/themify9f24.ttf
+ create mode 100644 assets/this_is_me/fonts/themify9f24.woff
+ create mode 100644 assets/this_is_me/fonts/themifyd41d.eot
+ create mode 100644 assets/this_is_me/images/1x/appointment-img_1-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/blog-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/blog-img01-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/blog1-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/blog3-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/cart-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/cart1-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/glowithin-logo.png
+ create mode 100644 assets/this_is_me/images/1x/hair-img01-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/hair-img02-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/hair-img03-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/hair-img04-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/hair-img05-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/hair-img06-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/nails-img01-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/nails-img02-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/nails-img03-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/nails-img04-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/nails-img05-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/nails-img06-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/product-img01-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/product-img02-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/product-img03-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/product-img04-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/product-img05-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/product-img06-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/product-img07-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/spa-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/team-img01_1-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/treatment-img01-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/treatment-img02-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/treatment-img03-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/treatment-img04-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/treatment-img05-100.jpg
+ create mode 100644 assets/this_is_me/images/1x/treatment-img06-100.jpg
+ create mode 100644 assets/this_is_me/images/404-icon.png
+ create mode 100644 assets/this_is_me/images/43 Nail Ideas to Inspire Your Next Mani _ Page 2 of 4 _ StayGlam.jpeg
+ create mode 100644 assets/this_is_me/images/Spa_Treatments_Inspired_by_the_Lunar_Cycle___Organic_Spa_Magazine-removebg-preview.png
+ create mode 100644 assets/this_is_me/images/These_8_DIY_Eye_Masks_Will_Solve_Your_Under-Eye_Problems___Hello_Glow-removebg-preview.png
+ create mode 100644 assets/this_is_me/images/aboutus-img.jpg
+ create mode 100644 assets/this_is_me/images/appointment-img-100.jpg
+ create mode 100644 assets/this_is_me/images/appointment-img.jpg
+ create mode 100644 assets/this_is_me/images/appointment-img_1-100.jpg
+ create mode 100644 assets/this_is_me/images/blog-fullimg-01.jpg
+ create mode 100644 assets/this_is_me/images/blog-fullimg-02.jpg
+ create mode 100644 assets/this_is_me/images/blog-fullimg-03.jpg
+ create mode 100644 assets/this_is_me/images/blog-fullimg-04.jpg
+ create mode 100644 assets/this_is_me/images/blog-fullimg-05.jpg
+ create mode 100644 assets/this_is_me/images/blog-fullimg-06.jpg
+ create mode 100644 assets/this_is_me/images/blog-fullimg-07.jpg
+ create mode 100644 assets/this_is_me/images/cart-img01.jpg
+ create mode 100644 assets/this_is_me/images/cart-img02.jpg
+ create mode 100644 assets/this_is_me/images/comment-img01.png
+ create mode 100644 assets/this_is_me/images/comment-img02.png
+ create mode 100644 assets/this_is_me/images/contactus-img.jpg
+ create mode 100644 assets/this_is_me/images/desktop.ini
+ create mode 100644 assets/this_is_me/images/galler-img13-100.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img-11-100.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img01.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img02.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img03.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img04.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img05.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img05.png
+ create mode 100644 assets/this_is_me/images/gallery-img06-100.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img06.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img07-100.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img07.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img08-100.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img08.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img09.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img10-100.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img10.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img11.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img12-100.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img12.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img13.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img14-100.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img14.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img15.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img16.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img17.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img18.jpg
+ create mode 100644 assets/this_is_me/images/gallery-img19.jpg
+ create mode 100644 assets/this_is_me/images/gift-img01-100.jpg
+ create mode 100644 assets/this_is_me/images/gift-img01.jpg
+ create mode 100644 assets/this_is_me/images/gift-img02-100.jpg
+ create mode 100644 assets/this_is_me/images/gift-img02.jpg
+ create mode 100644 assets/this_is_me/images/gift-img03-100.jpg
+ create mode 100644 assets/this_is_me/images/gift-img03.jpg
+ create mode 100644 assets/this_is_me/images/glowithin-logo.png
+ create mode 100644 assets/this_is_me/images/gqallery-img09-100.jpg
+ create mode 100644 assets/this_is_me/images/hair-100.jpg
+ create mode 100644 assets/this_is_me/images/images (6).jpeg
+ create mode 100644 assets/this_is_me/images/images (7).jpeg
+ create mode 100644 assets/this_is_me/images/images (8).jpeg
+ create mode 100644 assets/this_is_me/images/img1.jpg
+ create mode 100644 assets/this_is_me/images/img14.png
+ create mode 100644 assets/this_is_me/images/img16.jpg
+ create mode 100644 assets/this_is_me/images/img17.jpg
+ create mode 100644 assets/this_is_me/images/img18.jpg
+ create mode 100644 assets/this_is_me/images/img2.jpg
+ create mode 100644 assets/this_is_me/images/img3.png
+ create mode 100644 assets/this_is_me/images/img4.png
+ create mode 100644 assets/this_is_me/images/logo.png
+ create mode 100644 assets/this_is_me/images/manicure-100.jpg
+ create mode 100644 assets/this_is_me/images/nails-100.jpg
+ create mode 100644 assets/this_is_me/images/paradise-img.jpg
+ create mode 100644 assets/this_is_me/images/paradise-img1.jpg
+ create mode 100644 assets/this_is_me/images/pedicure-100.jpg
+ create mode 100644 assets/this_is_me/images/post-img01.jpg
+ create mode 100644 assets/this_is_me/images/post-img02.jpg
+ create mode 100644 assets/this_is_me/images/post-img03.jpg
+ create mode 100644 assets/this_is_me/images/post-img04.jpg
+ create mode 100644 assets/this_is_me/images/post-img05.jpg
+ create mode 100644 assets/this_is_me/images/prettyPhoto/dark_rounded/btnNext.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/dark_rounded/btnPrevious.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/dark_rounded/contentPattern.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/dark_rounded/loader.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/dark_rounded/sprite.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/dark_square/btnNext.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/dark_square/btnPrevious.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/dark_square/loader.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/dark_square/sprite.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/default/default_thumb.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/default/loader.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/default/sprite.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/default/sprite_next.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/default/sprite_prev.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/default/sprite_x.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/default/sprite_y.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/facebook/btnNext.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/facebook/btnPrevious.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/facebook/contentPatternBottom.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/facebook/contentPatternLeft.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/facebook/contentPatternRight.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/facebook/contentPatternTop.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/facebook/default_thumbnail.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/facebook/loader.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/facebook/sprite.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/light_rounded/btnNext.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/light_rounded/btnPrevious.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/light_rounded/loader.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/light_rounded/sprite.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/light_square/btnNext.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/light_square/btnPrevious.html
+ create mode 100644 assets/this_is_me/images/prettyPhoto/light_square/sprite.html
+ create mode 100644 assets/this_is_me/images/pricing-img01-100.jpg
+ create mode 100644 assets/this_is_me/images/pricing-img01.jpg
+ create mode 100644 assets/this_is_me/images/pricing-img02-100.jpg
+ create mode 100644 assets/this_is_me/images/pricing-img02.jpg
+ create mode 100644 assets/this_is_me/images/pricing-img03-100.jpg
+ create mode 100644 assets/this_is_me/images/pricing-img03.jpg
+ create mode 100644 assets/this_is_me/images/pricing-img04-100.jpg
+ create mode 100644 assets/this_is_me/images/pricing-img04.jpg
+ create mode 100644 assets/this_is_me/images/product-100.jpg
+ create mode 100644 assets/this_is_me/images/product-img01-100.jpg
+ create mode 100644 assets/this_is_me/images/product-img01.jpg
+ create mode 100644 assets/this_is_me/images/product-img02-100.jpg
+ create mode 100644 assets/this_is_me/images/product-img02.jpg
+ create mode 100644 assets/this_is_me/images/product-img03-100.jpg
+ create mode 100644 assets/this_is_me/images/product-img03.jpg
+ create mode 100644 assets/this_is_me/images/product-img04-100.jpg
+ create mode 100644 assets/this_is_me/images/product-img04.jpg
+ create mode 100644 assets/this_is_me/images/product-img05.jpg
+ create mode 100644 assets/this_is_me/images/product-img06.jpg
+ create mode 100644 assets/this_is_me/images/product-img07.jpg
+ create mode 100644 assets/this_is_me/images/product-img08.jpg
+ create mode 100644 assets/this_is_me/images/product-img09.jpg
+ create mode 100644 assets/this_is_me/images/product-img10.jpg
+ create mode 100644 assets/this_is_me/images/product-img11.jpg
+ create mode 100644 assets/this_is_me/images/product-img12.jpg
+ create mode 100644 assets/this_is_me/images/product-img13.jpg
+ create mode 100644 assets/this_is_me/images/quotes-img01.png
+ create mode 100644 assets/this_is_me/images/rune-enstad-qeuJczNo54w-unsplash.jpg
+ create mode 100644 assets/this_is_me/images/service-img1.jpg
+ create mode 100644 assets/this_is_me/images/service-video.jpg
+ create mode 100644 assets/this_is_me/images/services-img01.jpg
+ create mode 100644 assets/this_is_me/images/services-img02.jpg
+ create mode 100644 assets/this_is_me/images/services-img03.jpg
+ create mode 100644 assets/this_is_me/images/services-img04.jpg
+ create mode 100644 assets/this_is_me/images/slider-img01.png
+ create mode 100644 assets/this_is_me/images/slider-img02.jpg
+ create mode 100644 assets/this_is_me/images/slider-img02.png
+ create mode 100644 assets/this_is_me/images/slider-img07.png
+ create mode 100644 assets/this_is_me/images/slider-img09.png
+ create mode 100644 assets/this_is_me/images/team-img01.jpg
+ create mode 100644 assets/this_is_me/images/team-img01_1-100.jpg
+ create mode 100644 assets/this_is_me/images/team-img02-100.jpg
+ create mode 100644 assets/this_is_me/images/team-img02.jpg
+ create mode 100644 assets/this_is_me/images/team-img03-100.jpg
+ create mode 100644 assets/this_is_me/images/team-img03.jpg
+ create mode 100644 assets/this_is_me/images/team-img04-100.jpg
+ create mode 100644 assets/this_is_me/images/team-img04.jpg
+ create mode 100644 assets/this_is_me/images/testimonial-img01.jpg
+ create mode 100644 assets/this_is_me/images/testimonial-img02.jpg
+ create mode 100644 assets/this_is_me/images/testimonial-img03.jpg
+ create mode 100644 assets/this_is_me/images/video-img.jpg
+ create mode 100644 assets/this_is_me/images/whychooseus-img.jpg
+ create mode 100644 assets/this_is_me/images/whychooseus-img02.png
+ create mode 100644 assets/this_is_me/images/whychooseus-img03.png
+ create mode 100644 assets/this_is_me/images/widget-img01.jpg
+ create mode 100644 assets/this_is_me/images/widget-img02.jpg
+ create mode 100644 assets/this_is_me/images/widget-img03.jpg
+ create mode 100644 assets/this_is_me/images/widget-img04.jpg
+ create mode 100644 assets/this_is_me/images/widget-img05.jpg
+ create mode 100644 assets/this_is_me/images/widget-img06.jpg
+ create mode 100644 assets/this_is_me/index.html
+ create mode 100644 assets/this_is_me/js/appear.js
+ create mode 100644 assets/this_is_me/js/countTo.js
+ create mode 100644 assets/this_is_me/js/countdown.js
+ create mode 100644 assets/this_is_me/js/fancybox.js
+ create mode 100644 assets/this_is_me/js/html5lightbox.js
+ create mode 100644 assets/this_is_me/js/isotop.js
+ create mode 100644 assets/this_is_me/js/isotope.pkgd.js
+ create mode 100644 assets/this_is_me/js/main.js
+ create mode 100644 assets/this_is_me/js/owl.carousel.min.js
+ create mode 100644 assets/this_is_me/js/vendor/bootstrap.min.js
+ create mode 100644 assets/this_is_me/js/vendor/jquery-library.js
+ create mode 100644 assets/this_is_me/js/vendor/modernizr-2.8.3-respond-1.4.2.min.js
+ create mode 100644 assets/this_is_me/style.css
+ create mode 100644 debug.log
+ create mode 100644 index.html
+ create mode 100644 js/jquery.simple-text-rotator.js
+
+Lovelyn@DESKTOP-QE1AFK3 MINGW64 /f/MYPORTFOLIO (master)
+$ git branch -M main
+
+Lovelyn@DESKTOP-QE1AFK3 MINGW64 /f/MYPORTFOLIO (main)
+$ git remote add origin https://github.com/Lovelyn-glow/my-portfolio.git
+
+Lovelyn@DESKTOP-QE1AFK3 MINGW64 /f/MYPORTFOLIO (main)
+$ git push -u origin main
+Enumerating objects: 447, done.
+Counting objects: 100% (447/447), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (443/443), done.
+Writing objects: 100% (447/447), 34.49 MiB | 414.00 KiB/s, done.
+Total 447 (delta 108), reused 0 (delta 0)
+remote: Resolving deltas: 100% (108/108), done.
+To https://github.com/Lovelyn-glow/my-portfolio.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+Lovelyn@DESKTOP-QE1AFK3 MINGW64 /f/MYPORTFOLIO (main)
+$ git push -u origin main
+Everything up-to-date
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+
+Lovelyn@DESKTOP-QE1AFK3 MINGW64 /f/MYPORTFOLIO (main)
